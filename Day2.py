@@ -1,5 +1,3 @@
-#Day 2 | HackerRank 30 Days of Code
-
 i = 4
 d = 4.0
 s = 'HackerRank '
@@ -13,4 +11,5 @@ s2 = input().strip()
 print(i + i2)
 print(d + d2)
 print(s + s2)
+
 
