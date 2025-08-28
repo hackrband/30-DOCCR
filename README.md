@@ -37,5 +37,4 @@ Each day focuses on a new programming concept, building up from basics to more a
 | 27  | Testing                        | ❌ Uncomplete |
 | 28  | RegEx, Patterns, and Intro DB  | ❌ Uncomplete |
 | 29  | Bitwise AND                    | ❌ Uncomplete |
-| 30  | Review and Summary             | ❌ Uncomplete |
 
