@@ -6,22 +6,40 @@ This document contains my progress and solutions from the **30 Days of Code Chal
 Each day focuses on a new programming concept, building up from basics to more advanced problem-solving skills.
 
 ## Daily Results
-| Day | Topic                    | Status    | Notes                          |
-|-----|---------------------------|-----------|--------------------------------|
-| 1   | Hello World               | ✅ Done   | First simple print statement   |
-| 2   | Data Types                | ✅ Done   | Practiced type casting         |
-| 3   | Operators                 | ✅ Done   | Learned basic math operations  |
-| 4   | Conditional Statements    | ✅ Done   | If-else practice               |
-| 5   | Loops                     | ✅ Done   | For/while loops                |
-| 6   | Strings                   | ✅ Done   | Slicing and character checks   |
-| 7   | Arrays                    | ✅ Done   | Reverse array practice         |
-| 8   | Dictionaries & Maps       | ✅ Done   | Implemented phonebook lookups  |
-| 9   | Recursion (Factorial)     | ✅ Done   | Wrote recursive function       |
-| …   | …                         | …         | …                              |
+| Day | Topic                         | Status        |
+|-----|--------------------------------|---------------|
+| 1   | Hello World                    | ✅ Complete   |
+| 2   | Data Types                     | ✅ Complete   |
+| 3   | Operators                      | ✅ Complete   |
+| 4   | Conditional Statements         | ✅ Complete   |
+| 5   | Loops                          | ✅ Complete   |
+| 6   | Strings                        | ✅ Complete   |
+| 7   | Arrays                         | ✅ Complete   |
+| 8   | Dictionaries & Maps            | ✅ Complete   |
+| 9   | Recursion (Factorial)          | ✅ Complete   |
+| 10  | Binary Numbers                 | ❌ Uncomplete |
+| 11  | 2D Arrays                      | ❌ Uncomplete |
+| 12  | Inheritance                    | ❌ Uncomplete |
+| 13  | Abstract Classes               | ❌ Uncomplete |
+| 14  | Scope                          | ❌ Uncomplete |
+| 15  | Linked List                    | ❌ Uncomplete |
+| 16  | Exceptions – String to Integer | ❌ Uncomplete |
+| 17  | More Exceptions                | ❌ Uncomplete |
+| 18  | Queues and Stacks              | ❌ Uncomplete |
+| 19  | Interfaces                     | ❌ Uncomplete |
+| 20  | Sorting                        | ❌ Uncomplete |
+| 21  | Generics                       | ❌ Uncomplete |
+| 22  | Binary Search Trees            | ❌ Uncomplete |
+| 23  | BST Level-Order Traversal      | ❌ Uncomplete |
+| 24  | More Linked Lists              | ❌ Uncomplete |
+| 25  | Running Time and Complexity    | ❌ Uncomplete |
+| 26  | Nested Logic                   | ❌ Uncomplete |
+| 27  | Testing                        | ❌ Uncomplete |
+| 28  | RegEx, Patterns, and Intro DB  | ❌ Uncomplete |
+| 29  | Bitwise AND                    | ❌ Uncomplete |
+| 30  | Review and Summary             | ❌ Uncomplete |
 
 ## Reflection
-- **Consistency pays off**: coding every day improved my fluency.  
-- **Stronger fundamentals**: arrays, dictionaries, and recursion became more natural.  
-- **Next step**: continue with more advanced problems and practice optimization.  
-
----
+- **Consistency is key**: tracking daily progress helps maintain momentum.  
+- **Clear structure**: each challenge builds toward stronger fundamentals.  
+- **Next step**: mark each day ✅ as it’s completed.
