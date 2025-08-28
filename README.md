@@ -38,8 +38,3 @@ Each day focuses on a new programming concept, building up from basics to more a
 | 27  | Testing                                     | ❌ Uncomplete |
 | 28  | RegEx, Patterns, and Intro to Databases    | ❌ Uncomplete |
 | 29  | Bitwise AND                                 | ❌ Uncomplete |
-
-## Reflection
-- **Consistency is key**: tracking daily progress helps maintain momentum.  
-- **Clear structure**: each challenge builds toward stronger fundamentals.  
-- **Next step**: mark each day ✅ as it’s completed.
