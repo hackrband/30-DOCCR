@@ -1,3 +1,13 @@
+# 30-DOCCR  
+### 30 Days of Code Challenge Results
+
+## 📖 Overview
+This repository tracks my progress in the **HackerRank 30 Days of Code Challenge**.  
+Each day introduces a new programming concept, starting from basics and gradually moving toward more advanced problem-solving skills.
+
+---
+
+## 📅 Daily Progress
 | Day | Topic                                   | Status        |
 |-----|-----------------------------------------|---------------|
 | 0   | Hello, World.                           | ✅ Complete   |
@@ -30,3 +40,16 @@
 | 27  | Testing                                 | ❌ Uncomplete |
 | 28  | RegEx, Patterns, and Intro to Databases | ❌ Uncomplete |
 | 29  | Bitwise AND                             | ❌ Uncomplete |
+
+---
+
+## 📝 Reflection
+- **Consistency is key** → keeping track daily keeps me accountable.  
+- **Clear structure** → each challenge builds step by step.  
+- **Next step** → finish incomplete days and update this tracker.  
+
+---
+
+## 📌 Notes
+- Progress log only — no solutions included.  
+- This is mainly for documenting growth and maintaining momentum.  
