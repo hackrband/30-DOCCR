@@ -1,8 +1,6 @@
 # 30-DOCCR  
 ### 30 Days of Code Challenge Results
 
-UPDTATES ON HOLD UNTIL **SEP 13 2025**
-
 ## 📖 Overview
 This repository tracks my progress in the **HackerRank 30 Days of Code Challenge**.  
 Each day introduces a new programming concept, starting from basics and gradually moving toward more advanced problem-solving skills.
