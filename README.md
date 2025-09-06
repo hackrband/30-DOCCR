@@ -23,14 +23,14 @@ Each day introduces a new programming concept, starting from basics and graduall
 | 8   | Dictionaries and Maps                   | ✅ Complete   |
 | 9   | Recursion 3                             | ✅ Complete   |
 | 10  | Binary Numbers                          | ✅ Complete   |
-| 11  | 2D Arrays                               | ❌ Uncomplete |
-| 12  | Inheritance                             | ❌ Uncomplete |
-| 13  | Abstract Classes                        | ❌ Uncomplete |
-| 14  | Scope                                   | ❌ Uncomplete |
-| 15  | Linked List                             | ❌ Uncomplete |
-| 16  | Exceptions - String to Integer          | ❌ Uncomplete |
-| 17  | More Exceptions                         | ❌ Uncomplete |
-| 18  | Queues and Stacks                       | ❌ Uncomplete |
+| 11  | 2D Arrays                               | ✅ Complete   |
+| 12  | Inheritance                             | ✅ Complete   |
+| 13  | Abstract Classes                        | ✅ Complete   |
+| 14  | Scope                                   | ✅ Complete   |
+| 15  | Linked List                             | ✅ Complete   |
+| 16  | Exceptions - String to Integer          | ✅ Complete   |
+| 17  | More Exceptions                         | ✅ Complete   |
+| 18  | Queues and Stacks                       | ✅ Complete   |
 | 19  | Interfaces                              | ❌ Uncomplete |
 | 20  | Sorting                                 | ❌ Uncomplete |
 | 21  | Generics                                | ❌ Uncomplete |
