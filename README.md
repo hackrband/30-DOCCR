@@ -29,8 +29,8 @@ Each day introduces a new programming concept, starting from basics and graduall
 | 16  | Exceptions - String to Integer          | ✅ Complete   |
 | 17  | More Exceptions                         | ✅ Complete   |
 | 18  | Queues and Stacks                       | ✅ Complete   |
-| 19  | Interfaces                              | ❌ Uncomplete |
-| 20  | Sorting                                 | ❌ Uncomplete |
+| 19  | Interfaces                              | 🟨 Pending    |
+| 20  | Sorting                                 | 🟨 Pending    |
 | 21  | Generics                                | ❌ Uncomplete |
 | 22  | Binary Search Trees                     | ❌ Uncomplete |
 | 23  | BST Level-Order Traversal               | ❌ Uncomplete |
