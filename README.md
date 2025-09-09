@@ -41,15 +41,4 @@ The challenge introduces a new programming concept each day — starting with th
 | 28  | RegEx, Patterns, and Intro to Databases | ❌ Incomplete | ?        |
 | 29  | Bitwise AND                             | ❌ Incomplete | ?        |
 
----
 
-## 📝 Reflection
-- **Consistency matters** → tracking daily progress kept me accountable.  
-- **Structured learning** → each challenge builds on the previous one, reinforcing core concepts.  
-- **Next step** → finish the remaining days and update this tracker until fully complete.  
-
----
-
-## 📌 Notes
-- This repository is a **progress log only** — no solutions included.  
-- The focus is on **documenting growth, consistency, and momentum**.  
