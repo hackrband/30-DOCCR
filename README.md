@@ -33,7 +33,7 @@ The challenge introduces a new programming concept each day — starting with th
 | 20  | Sorting                                 | ✅ Complete   | Python   |
 | 21  | Generics                                | ✅ Complete   | Java     |
 | 22  | Binary Search Trees                     | ✅ Complete   | Java     |
-| 23  | BST Level-Order Traversal               | ❌ Incomplete | ?        |
+| 23  | BST Level-Order Traversal               | ✅ Complete   | Java     |
 | 24  | More Linked Lists                       | ❌ Incomplete | ?        |
 | 25  | Running Time and Complexity             | ❌ Incomplete | ?        |
 | 26  | Nested Logic                            | ❌ Incomplete | ?        |
